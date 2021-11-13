@@ -2,8 +2,8 @@
 "name": "ADA Bunny Cardano Pool",
 "description": "We are social creatures",
 "ticker": "ADAB",
-"homepage": "https://adabunny.com"
-"extended" : "https://raw.githubusercontent.com/bladerunner1983/adabunny/main/poolMetaDataExtended.json"
+"homepage": "https://adabunny.com",
+"extended": "https://raw.githubusercontent.com/bladerunner1983/adabunny/main/poolMetaDataExtended.json"
 }
 
 
